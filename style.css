@@ -166,7 +166,7 @@ footer p {
 }
 .box-blog {
   padding-top: 20px;
-  background: rgb(198, 245, 248) url("/image/8-removebg-preview.png") repeat-y
+  background: rgb(198, 245, 248) url("image/8-removebg-preview.png") repeat-y
     90%;
 }
 button:hover {
